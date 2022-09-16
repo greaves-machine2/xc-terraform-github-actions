@@ -1,6 +1,6 @@
 api_p12_file = "./protected.p12"
-console_url  = "console.ves.volterra.io"
-domain       = "juice.gal.volterra.link"
+console_url  = "galileo.console.ves.volterra.io"
+domain       = "galileo.console.ves.volterra.io"
 namespace    = "arch"
 origin_fqdn  = "juiceshop.volt.archf5.com"
 origin_ip    = "10.0.0.3"
